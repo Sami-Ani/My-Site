@@ -1,2 +1,1 @@
-# My-Site
-A redeployment of my portfolio site
+# A Personal Portfolio Site 

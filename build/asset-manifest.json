@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sami-Ani/portfolio/static/css/main.42bd2f3f.css",
+    "main.js": "/Sami-Ani/portfolio/static/js/main.43c5a637.js",
+    "static/media/logo-2.png": "/Sami-Ani/portfolio/static/media/logo-2.b62a5f7d0a52f19b3768.png",
+    "static/media/daye-library.png": "/Sami-Ani/portfolio/static/media/daye-library.ed967bf6ba9a18b51c27.png",
+    "static/media/worldwise.png": "/Sami-Ani/portfolio/static/media/worldwise.dc4b081b9d0297a39180.png",
+    "static/media/wordpress-eCommerce.png": "/Sami-Ani/portfolio/static/media/wordpress-eCommerce.5a94a63d80892445676e.png",
+    "static/media/natours.png": "/Sami-Ani/portfolio/static/media/natours.10ce15a96c78fac44af9.png",
+    "static/media/wordpress-digitalAgency.png": "/Sami-Ani/portfolio/static/media/wordpress-digitalAgency.8782de27599fd5fc3561.png",
+    "static/media/fast-react-pizza.png": "/Sami-Ani/portfolio/static/media/fast-react-pizza.6b9578cb40fae230824a.png",
+    "static/media/The-wild-oasis.png": "/Sami-Ani/portfolio/static/media/The-wild-oasis.99acfbb5a22f781c2ef6.png",
+    "static/media/avatar.jpg": "/Sami-Ani/portfolio/static/media/avatar.9c665647535b62479fae.jpg",
+    "static/media/myCV.pdf": "/Sami-Ani/portfolio/static/media/myCV.b4a313c2a2861cee9ad4.pdf",
+    "index.html": "/Sami-Ani/portfolio/index.html",
+    "main.42bd2f3f.css.map": "/Sami-Ani/portfolio/static/css/main.42bd2f3f.css.map",
+    "main.43c5a637.js.map": "/Sami-Ani/portfolio/static/js/main.43c5a637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42bd2f3f.css",
+    "static/js/main.43c5a637.js"
+  ]
+}
